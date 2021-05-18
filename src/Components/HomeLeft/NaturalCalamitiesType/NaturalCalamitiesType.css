@@ -1,0 +1,45 @@
+.NaturalCalamitiesType {
+	display: flex;
+	height: 80vh;
+	justify-content: center;
+	align-items: center;
+}
+.NaturalCalamitiesType .Left {
+	flex: 0.5;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	padding-top: 2rem;
+	padding-bottom: 3rem;
+}
+.NaturalCalamitiesType .Left > .yLabel {
+	color: white;
+	position: absolute;
+	top: 140px;
+	transform: rotate(-90deg);
+	left: -30px;
+	letter-spacing: 0.1rem;
+	font-size: 13px;
+}
+.NaturalCalamitiesType .Left > .xLabel {
+	color: white;
+	position: absolute;
+	top: 46vh;
+	left: 14vw;
+	letter-spacing: 0.1rem;
+	font-size: 13px;
+}
+.NaturalCalamitiesType .Left > h4 {
+	margin-top: 1rem;
+}
+.NaturalCalamitiesType .Right {
+	flex: 0.5;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
+.NaturalCalamitiesType .Right > h4 {
+	margin-top: 1rem;
+}

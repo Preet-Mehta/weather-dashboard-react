@@ -1,0 +1,28 @@
+.earthquake-container {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+}
+.map {
+	width: 400px;
+	height: 400px;
+}
+.iframe {
+	width: 400px;
+	height: 400px;
+}
+.earthquake-container-heading {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	padding: 1rem;
+	opacity: 0.8;
+}
+.earthquake-container-heading > .left {
+	flex: 0.4;
+	text-align: center;
+}
+.earthquake-container-heading > .right {
+	flex: 0.4;
+	text-align: center;
+}

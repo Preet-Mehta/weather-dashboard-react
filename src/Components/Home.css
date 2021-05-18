@@ -1,0 +1,21 @@
+.home {
+  display: flex;
+  height: 98vh;
+  width: 98vw;
+  background-color: #1e2025;
+  flex-direction: row;
+  flex: 1;
+  padding: 1vh 1vw;
+}
+
+.home > .home-left {
+  flex: 0.8;
+  border: 1px dashed white;
+  border-radius: 25px 0 0 25px;
+}
+
+.home > .home-right {
+  flex: 0.2;
+  border: 1px dashed white;
+  border-radius: 0 25px 25px 0;
+}

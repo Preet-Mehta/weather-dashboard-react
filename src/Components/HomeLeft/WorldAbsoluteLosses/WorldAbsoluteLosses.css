@@ -1,0 +1,26 @@
+.WorldAbsoluteLosses {
+	width: 85%;
+	height: 72vh;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	background-color: #26292e;
+	padding: 0.5rem;
+	border: 1px solid transparent;
+	border-radius: 30px !important;
+	margin: 0rem 4rem 0rem 4rem;
+}
+.WorldAbsoluteLosses > * {
+	margin-bottom: 1rem;
+	letter-spacing: 0.1rem;
+}
+.Top10absoluteloss {
+	width: 750px;
+}
+
+.WorldAbsoluteLosses > h4 {
+	font-size: 12px;
+	letter-spacing: 0.1rem;
+	padding: 0.5rem 4rem 0rem 4rem;
+}

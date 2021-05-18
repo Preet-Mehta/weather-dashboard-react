@@ -1,0 +1,33 @@
+.weathermap {
+	display: flex;
+	justify-content: space-evenly;
+	height: 100vh;
+	width: 100%;
+}
+.weathermap .left {
+	flex: 0.5;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	margin-top: 3rem;
+}
+.weathermap .right {
+	flex: 0.5;
+	display: flex;
+	flex-direction: column;
+	justify-content: flex-start;
+	align-items: center;
+	margin-top: -25px;
+}
+
+.apexcharts-menu-icon {
+	display: none;
+}
+
+.weathermap .right .second {
+	margin-top: -100px;
+}
+#SvgjsSvg3416 {
+	margin-top: -50px;
+}

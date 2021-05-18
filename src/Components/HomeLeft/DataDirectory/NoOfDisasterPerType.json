@@ -1,0 +1,38 @@
+[
+	{
+		"name": "Flood",
+		"value": 3148
+	},
+	{
+		"name": "Storm",
+		"value": 2049
+	},
+	{
+		"name": "Earthquake",
+		"value": 563
+	},
+	{
+		"name": "Extreme Temperature",
+		"value": 405
+	},
+	{
+		"name": "Landslide",
+		"value": 378
+	},
+	{
+		"name": "Drought",
+		"value": 347
+	},
+	{
+		"name": "Wildfire",
+		"value": 254
+	},
+	{
+		"name": "Volcanic activity",
+		"value": 99
+	},
+	{
+		"name": "Mass Movement (dry)",
+		"value": 12
+	}
+]
